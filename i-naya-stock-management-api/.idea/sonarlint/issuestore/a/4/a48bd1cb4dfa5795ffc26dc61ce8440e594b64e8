@@ -1,0 +1,6 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ê™Œ
+\
+java:S1128"FRemove this unused import 'com.inaya.stockmanagement.dto.CategoryDTO'.(úÚ«Í
+K
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš

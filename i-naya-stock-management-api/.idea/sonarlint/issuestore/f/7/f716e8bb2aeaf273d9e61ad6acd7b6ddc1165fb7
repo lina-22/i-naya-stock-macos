@@ -1,0 +1,12 @@
+
+]
+java:S2259,"BA "NullPointerException" could be thrown; "null" is nullable here.(ßí¢ñýÿÿÿÿ
+u
+java:S4144I"ZUpdate this method so that its implementation is not identical to "modelToDto" on line 63.(§…Ž¥ÿÿÿÿÿ
+V	java:S125P"<This block of commented-out lines of code should be removed.(¸£—„ýÿÿÿÿ
+\
+java:S1128"FRemove this unused import 'com.inaya.stockmanagement.dto.CategoryDTO'.(úÚ«Í
+`
+java:S1128"ERemove this unused import 'com.inaya.stockmanagement.model.Category'.(Û„‹˜úÿÿÿÿ
+U
+java:S1144I":Remove this unused private "modelToDtoWithProduct" method.(§…Ž¥ÿÿÿÿÿ
